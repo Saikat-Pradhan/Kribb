@@ -1,4 +1,4 @@
-# Kribb -- Find your dream home today
+# 🏨 Kribb -- Find your dream home today
 
 ![React Native](https://img.shields.io/badge/Mobile-React%20Native-blue?logo=react)
 ![Expo](https://img.shields.io/badge/Framework-Expo-lightblue?logo=expo)
