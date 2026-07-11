@@ -18,8 +18,15 @@ It connects to a Supabase backend for secure authentication and real-time proper
    ```bash
    npm install
    ```
+2. Configure your .env file
 
-2. Start the app
+   ```
+   EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY= <your_PUBLIC_CLERK_PUBLISHABLE_KEY>
+   EXPO_PUBLIC_SUPABASE_URL= <your_PUBLIC_SUPABASE_URL>
+   EXPO_PUBLIC_SUPABASE_KEY= <your__PUBLIC_SUPABASE_KEY>
+   ```
+
+3. Start the app
 
    ```bash
    npx expo start -c
